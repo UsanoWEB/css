@@ -1,0 +1,35 @@
+
+@font-face {
+    font-family: 'Plain';
+    src: url('Plain-Regular.eot') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+  font-family: 'Plain';
+  src:  url('Plain-Regular.otf')  format('opentype'),
+         url('Plain-Regular.woff') format('woff'),
+         url('Plain-Regular.ttf')  format('truetype'),
+         url('Plain-Regular.svg#Plain-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Plain';
+  src: url('Plain-Bold.eot') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Plain';
+  src:  url('Plain-Bold.otf')  format('opentype'),
+        url('Plain-Bold.woff') format('woff'),
+        url('Plain-Bold.ttf')  format('truetype'),
+        url('Plain-Bold.svg#Plain-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
